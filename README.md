@@ -1,4 +1,4 @@
-This is a test
+this is nothin
 # Replicable Infrastructure Adventure
 
 Creating a reliable cloud infrastructure is essential for successful DevOps projects. With Terraform and GitHub Actions, you can automate the deployment of cloud resources, setting a solid foundation for your DevOps portfolio. This repository is forkable, so you can replicate the functionality for your own projects.
@@ -45,7 +45,7 @@ Steps 1-3 use Azure CLI commands in your terminal. The remaining steps use GitHu
      - `STORAGE_ACCOUNT = <ACCOUNTNAME>`
 
 ### Writing Infrastructure as Code
-
+this is somethin
 To write infrastructure as code for this project, follow these steps:
 
 1. **Create a new branch** on your forked repository.
