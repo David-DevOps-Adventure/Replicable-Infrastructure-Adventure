@@ -1,3 +1,4 @@
+This is a test
 # Replicable Infrastructure Adventure
 
 Creating a reliable cloud infrastructure is essential for successful DevOps projects. With Terraform and GitHub Actions, you can automate the deployment of cloud resources, setting a solid foundation for your DevOps portfolio. This repository is forkable, so you can replicate the functionality for your own projects.
